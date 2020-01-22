@@ -4,4 +4,5 @@ import data.dataset
 
 default main = false
 
-pi := 3.14159
+pi := 3.1415921
+apps.name = data.dataset
